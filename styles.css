@@ -1,0 +1,9 @@
+#container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  canvas {
+    border: 1px solid black;
+  }
+  
